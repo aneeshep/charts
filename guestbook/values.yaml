@@ -6,7 +6,7 @@ replicaCount: 5
 
 image:
   repository: argoproj/rollouts-demo
-  tag: green
+  tag: red
   pullPolicy: IfNotPresent
 
 service:
